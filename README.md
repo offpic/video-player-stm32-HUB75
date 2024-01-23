@@ -32,3 +32,7 @@ Bit depth: 16 bits
 Channel (s): 1 to 2 channels
 Sampling rate: 44.1 to 48 kHz
 Alignment: Aligned on interleaves
+
+![02b9d3331](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/a3ef8e5a-8716-4110-afc1-be092a02c78c)
+
+
