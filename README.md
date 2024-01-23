@@ -1,6 +1,8 @@
 # video-player-stm32-HUB75
 video player stm32 HUB75
 
+https://www.youtube.com/watch?v=0SOvpV5kFw0&list=PLQ42hqhrp2pTx7ryOxfo36ZguzxlAPJ-I&index=15&t=17s
+
 ![video player stm32 HUB75](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/7bebc2f9-d98f-496b-8c8d-a0bc650d6796)
 
  made an LED display with STM32F730R8T6 and four 128x64 pixel P2 dot matrix LEDs.
