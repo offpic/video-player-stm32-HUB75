@@ -33,7 +33,15 @@ Channel (s): 1 to 2 channels
 Sampling rate: 44.1 to 48 kHz
 Alignment: Aligned on interleaves
 
-![02b9d3331](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/a3ef8e5a-8716-4110-afc1-be092a02c78c)
+![image](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/1bbce720-93c2-4492-942e-6fd18030eb32)
 
-![30f5298b1](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/7e3a94b6-5076-40fa-8e30-24d237aa729b)
+![image](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/8ea1fdd7-9aed-44c6-b29b-c07eae3b66d0)
+
+![image](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/020b9c3c-9a29-473d-917e-bd681e39243c)
+
+![image](https://github.com/offpic/video-player-stm32-HUB75/assets/31142397/4460c199-df39-4f30-bc9d-7bd189269a08)
+
+
+
+
 
